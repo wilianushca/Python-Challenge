@@ -5,14 +5,16 @@ Module 3 Challenge
 
 PyBank and PyPoll are both tasks that demonstrate a real-world situations where Python scripting skills come in handy. 
 
-##PyBank
+## PyBank
 
 PyBank contains financial records of our company, and with the help of a Python Script, it will analyze the data to calculate the total months, total profit, greatest increase/decrease and average change.
 
-##PyPoll
+## PyPoll
+
 PyPoll contains poll data of the election. The data inside < election_data.csv > contains the ["Voter Id","County","Candidate"] This Python script analyzes the votes and caulates the: The Total number of votes cast, candidates who received votes, percentages, totals of each candidate, and the winner of based on the votes in the dataset. 
 
 ## Getting Started 
+
 You are able to start the script the following commands in the command line:
 
 < Import os >
